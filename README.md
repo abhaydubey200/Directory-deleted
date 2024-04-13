@@ -8,7 +8,7 @@ This is a simple Node.js script that randomly deletes a specified directory.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/abhaydubey200/Directory-deleted.git
    ```
 
 2. Navigate to the project directory:
