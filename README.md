@@ -14,7 +14,7 @@ This is a simple Node.js script that randomly deletes a specified directory.
 2. Navigate to the project directory:
 
    ```bash
-   cd random-directory-deletion
+   cd directory-deleted
    ```
 
 3. Install dependencies:
